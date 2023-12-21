@@ -3,7 +3,8 @@
 ![I am a dedicated coder.](https://img.freepik.com/premium-vector/young-programmer-code-client-projects-developer-writing-program-code-flat-vector_530733-1137.jpg?size=626&ext=jpg)
 
 
-Skills: HTML / CSS / C / C++
+Skills: HTML / CSS / TAILWIND CSS / BOOTSTRAP / JAVASCRIPT / REACT JS / MATERIAL UI / NODE JS / EXPRESS JS / MONGO DB / MONGOOSE And Also Learning Manymore ........
+  Lastly I am a Competitive Programmer . 
 
 - 🔭 I’m currently working on Web Development & Competitive Programminge  
 - 🌱 I’m currently learning Back-End Development  
