@@ -6,7 +6,7 @@
 Skills: HTML / CSS / TAILWIND CSS / BOOTSTRAP / JAVASCRIPT / REACT JS / MATERIAL UI / NODE JS / EXPRESS JS / MONGO DB / MONGOOSE And Also Learning Manymore ........
   Lastly I am a Competitive Programmer . 
 
-- 🔭 I’m currently working on Web Development & Competitive Programminge  
+- 🔭 I’m currently working on Web Development & Competitive Programming  
 - 🌱 I’m currently learning Back-End Development  
 - 💬 Ask me about C & C++ 
 - 📫 How to reach me: hassanshihab231@gmail.com 
